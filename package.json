@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/gapi": "^0.0.43",
+    "@types/gapi.client.discovery": "^1.0.8",
+    "@types/gapi.client.drive": "^3.0.14",
+    "@types/gapi.client.gmail": "^1.0.4",
+    "@types/gapi.client.oauth2": "^2.0.3",
+    "@types/gapi.client.sheets": "^4.0.20201030",
+    "@types/google-apps-script": "^1.0.57"
+  }
+}
